@@ -1,3 +1,13 @@
+# Unnecessary files from Zadatak
+*.xls
+*.xlsx
+*.xlt
+*.xltx
+*.doc
+*.docx
+*.dbg
+*.zip
+
 # Prerequisites
 *.d
 
